@@ -2,6 +2,8 @@
 
 For those who use Windows and have almost no idea how to use GitHub.
 
+Latest files will always be at [the dev site](https://dev.truthcoin.info/).
+
 ## Install
 
 1. Download the version appropriate for your windows system: 32-bit or 64-bit.
